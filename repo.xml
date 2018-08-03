@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Facebook</name>
+			<url>https://facebook.com/whitedeath.yt</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
+			<name>I want this depiction template</name>
+			<url>https://github.com/WhiteDeathYT/whitedeath.github.io</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
